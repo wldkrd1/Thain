@@ -8,3 +8,4 @@ Starting with the Thain_Character_Creator.xlsx, an Excel spreadsheet with most o
 
 - Dirgesinger is not implemented (yet!)
 - Harper Scout does not have the caster level and progression implemented
+- Shifter does not have the caster level and progression implemented
